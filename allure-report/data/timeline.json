@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-GNIGUOF7",
+    "children" : [ {
+      "name" : "19724-MainThread",
+      "children" : [ {
+        "name" : "test_num1",
+        "uid" : "ef9ba7bbbd871b68",
+        "parentUid" : "6a1d66f712a5abb265a6857567deeb73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593575127860,
+          "stop" : 1593575127861,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a1d66f712a5abb265a6857567deeb73"
+    } ],
+    "uid" : "0561542b1107d659461cec5526572c7f"
+  } ]
+}

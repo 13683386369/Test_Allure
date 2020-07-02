@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_001",
+      "children" : [ {
+        "name" : "Test_allure",
+        "children" : [ {
+          "name" : "test_num1",
+          "uid" : "ef9ba7bbbd871b68",
+          "parentUid" : "b1627e8a3cfdbad476231d4a6f24f0bf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593575127860,
+            "stop" : 1593575127861,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b1627e8a3cfdbad476231d4a6f24f0bf"
+      } ],
+      "uid" : "a330365efdfc70eb04f8156d6c03c6ff"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}
