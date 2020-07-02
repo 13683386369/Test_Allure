@@ -21,7 +21,7 @@ class Test_allure():
     @allure.testcase("http://www.baidu.com")
     @allure.severity("critical")
     def test_num2(self):
-        allure.attach("这是一个用例描述","嗯嗯哈哈哈")
+        allure.attach("这是一个用例描述","嗯嗯哈哈")
         assert 1
 
     @allure.title("用例3")
