@@ -7,7 +7,7 @@ class Test_allure():
     # 测试步骤
     @allure.step(title="这是第一个测试用例")
     # 测试缺陷
-    @allure.issue("http://www.163.com/test")
+    @allure.issue("http://www.163.com")
     # 测试用例
     @allure.testcase("http://www.baidu.com")
     # 用例级别
