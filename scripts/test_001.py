@@ -1,6 +1,6 @@
 import pytest,allure
 
-@allure.feature("allure测试啊")
+@allure.feature("allure测试")
 @allure.story("测试用例集")
 class Test_allure():
     @allure.title("用例1")
