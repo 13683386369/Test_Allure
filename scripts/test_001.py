@@ -14,7 +14,7 @@ class Test_allure():
     @allure.severity("TRIVIAL")
     def test_num1(self):
         # 测试描述信息
-        allure.attach('这是一个用例描述','试一下!!')
+        allure.attach('这是一个用例描述','试一下')
         assert 0
 
     @allure.title("用例2")
